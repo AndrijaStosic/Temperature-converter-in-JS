@@ -1,0 +1,75 @@
+#gg1{
+
+display: flex;
+justify-content: center;
+}
+#gg2{
+
+display: flex;
+justify-content: center;
+
+
+}
+
+body{
+
+background: linear-gradient(lightblue,lightgreen,orange,tomato,red);
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+
+#container {
+    display: flex;            
+    justify-content: center; 
+    padding-top: 100px;    
+         
+}
+
+
+#container2 {
+    display: flex;            
+    justify-content: center; 
+    padding-top: 100px;    
+         
+}
+
+#input1 {
+    background-color: white;
+    height: 30px;
+    width: 75px;
+}
+
+#dugme1{
+
+    height: 50px;
+    width: 75px;
+
+}
+#input2 {
+    background-color: white;
+    height: 30px;
+    width: 75px;
+}
+
+#dugme2{
+
+    height: 50px;
+    width: 75px;
+
+}
+
+#prikazivac1{
+
+display: flex;
+justify-content: center;
+
+}
+
+#prikazivac2{
+
+display: flex;
+justify-content: center;
+
+}
